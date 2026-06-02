@@ -60,7 +60,7 @@ https://github.com/en5hao/petrushka-green-test-task/blob/79e064a035d52c4e3fd14e7
 | 8 | Device Token DB | Redis | Хранит push-токены пользователей |
 
 ### Схема 
-c4-container-diagram.png
+[c4-container-diagram.png](https://github.com/en5hao/petrushka-green-test-task/blob/d362b10e88ee12c4eed31ff0e7c866c4daa62d18/task3-architecture/c4-container-diagram.png)
 
 
 ### Связи между контейнерами 
