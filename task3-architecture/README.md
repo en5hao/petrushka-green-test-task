@@ -27,7 +27,7 @@
 | External System | Google FCM | Google LLC | Доставка push-уведомлений на Android |
 
 ### Схема 
-c4-context-diagram.png
+[c4-context-diagram.png](https://github.com/en5hao/petrushka-green-test-task/blob/0897c421a789c2b63b917dff64dde520cccfb11b/task3-architecture/c4-container-diagram.png)
 
 ### Связи 
 | От | К | Глагол |
